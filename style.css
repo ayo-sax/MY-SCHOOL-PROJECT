@@ -395,23 +395,18 @@ search div button:hover {
     justify-content: space-around;
     
 }
-
-.ddc .hhj div img{
-    padding-right: 70px;
-    margin-top: 150px;
-    margin-bottom: 10px;
-    width: 150px;
+.ddc .hhj div{
+    display: inline;
 }
 
-.ddc .hhj div h2{
-    padding-left: 10px;
-    padding-bottom: 5px;
-    font-size: 19px;
+.ddc .hhj div a{
+    text-decoration: none;
 }
+
 
 .ddc .hhj div h3{
     padding-right: 19px;
-    color: rgb(124, 12, 230);
+    color: rgb(20, 99, 247);
     padding-bottom: 20px;
     cursor: pointer;
 }
